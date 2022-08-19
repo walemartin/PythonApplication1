@@ -1,0 +1,1 @@
+('Amy', 'Apple st 652', 2)('Ben', 'Park Lane 38', 10)('Betty', 'Green Grass 1', 6)('Chuck', 'Main Road 989', 12)('Hannah', 'Mountain 21', 3)('Michael', 'Valley 345', 4)('Peter', 'Lowstreet 4', 1)('Richard', 'Sky st 331', 7)('Sandy', 'Ocean blvd 2', 5)('Susan', 'One way 98', 8)('Vicky', 'Yellow Garden 2', 9)('Viola', 'Sideway 1633', 13)('William', 'Central st 954', 11)
